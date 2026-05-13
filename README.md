@@ -1,7 +1,4 @@
 # cot-med-summarizer
-Repository for the paper - Chain-of-Thought Supervision Enables Explainable and Efficient Medical Summarization with Small Language Models
-
-# cot-med-summarizer
 
 Chain-of-Thought Supervision for Explainable and Efficient Medical Summarization with Small Language Models.
 
@@ -345,3 +342,4 @@ The synthetic dataset was generated using GPT-4.1-mini (OpenAI). Users should co
 
 For questions or issues, please open a GitHub issue or contact the corresponding author at the email listed in the associated paper.
 
+For questions or issues, please open a GitHub issue or contact the corresponding author at the email listed in the associated paper.
