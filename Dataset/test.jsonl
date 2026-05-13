@@ -1,0 +1,254 @@
+{
+  "topic": "Rhabdomyosarcomas",
+  "id": "1",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 12-year-old female presented with a progressively enlarging mass in the nasal cavity associated with intermittent epistaxis and nasal obstruction. Imaging revealed a polypoid soft tissue lesion involving the nasopharynx. An endoscopic biopsy measuring 1.5 cm was submitted, showing a friable, gray-white cut surface. Histopathological examination revealed a moderately cellular tumor composed of primitive mesenchymal cells with alternating hypercellular and myxoid areas. Tumor cells were small to spindle-shaped with oval nuclei, mild pleomorphism, and occasional mitotic figures. A cambium layer was noted beneath the respiratory epithelium. No lymphovascular invasion was identified. Immunohistochemical staining demonstrated positivity for desmin and myogenin, while cytokeratin and CD45 were negative. These findings are consistent with botryoid variant of embryonal rhabdomyosarcoma.",
+  "reasoning_output": "1. Step 1: The clinical presentation of a nasal cavity mass in a pediatric patient with symptoms of epistaxis and obstruction suggests a malignant soft tissue tumor of the head and neck region. Gross and microscopic findings of a polypoid lesion with alternating hypercellular and myxoid areas, along with primitive mesenchymal cells, are characteristic features seen in embryonal rhabdomyosarcoma, particularly in mucosal-lined structures. 2. Step 2: The identification of a cambium layer beneath the epithelium is a distinctive histological feature strongly associated with the botryoid variant of embryonal rhabdomyosarcoma. Immunohistochemical positivity for desmin and myogenin confirms skeletal muscle differentiation, while negative cytokeratin and CD45 help exclude epithelial and hematolymphoid malignancies. 3. Step 3: Integrating the anatomical location, histopathological architecture, presence of cambium layer, and immunoprofile, the diagnosis is consistent with botryoid variant of embryonal rhabdomyosarcoma, a subtype typically seen in mucosal sites with relatively favorable prognosis when detected early.",
+  "summary_output": "This case represents a botryoid variant of embryonal rhabdomyosarcoma arising in the nasopharynx of a pediatric patient, confirmed by characteristic cambium layer and skeletal muscle immunomarkers, without evidence of aggressive spread.",
+  "important_terms": [
+    "embryonal rhabdomyosarcoma",
+    "botryoid variant",
+    "cambium layer",
+    "primitive mesenchymal cells",
+    "myxoid stroma",
+    "desmin positivity",
+    "myogenin positivity",
+    "nasopharyngeal mass",
+    "epistaxis",
+    "spindle-shaped cells",
+    "immunohistochemistry",
+    "skeletal muscle differentiation"
+  ]
+}
+
+{
+  "topic": "Gastrointestinal Stromal Tumors (GIST)",
+  "id": "2",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 65-year-old male presented with abdominal discomfort and early satiety. Imaging revealed a submucosal mass in the jejunum. A segmental resection specimen measuring 3.4 cm in greatest dimension was received, showing a well-circumscribed, tan-pink, fleshy tumor with focal hemorrhage; margins were grossly free by 8 mm. Histological examination demonstrated a predominantly epithelioid tumor composed of round to polygonal cells with eosinophilic cytoplasm, moderate nuclear atypia, and a mitotic rate of 6 per 50 high-power fields. Focal areas of necrosis were present. The tumor involved the muscularis propria and extended into the subserosa without serosal perforation. All margins were histologically negative, with a closest margin of 5 mm. No lymphovascular invasion was identified. Immunohistochemistry showed strong positivity for CD117 and DOG1, with patchy CD34 positivity, and negative desmin and S100. The features are consistent with a moderate-risk gastrointestinal stromal tumor of the jejunum with complete excision.",
+  "reasoning_output": "1. Step 1 – The clinical presentation and imaging localize a submucosal jejunal mass. Gross findings of a well-circumscribed fleshy tumor and histology showing an epithelioid cell population with moderate atypia, measurable mitotic activity, and focal necrosis support a mesenchymal neoplasm of intermediate aggressiveness. Depth of invasion into subserosa without serosal perforation indicates localized but advanced wall involvement. 2. Step 2 – Immunohistochemistry demonstrates strong CD117 and DOG1 positivity with patchy CD34 expression, confirming GIST and supporting an epithelioid variant. Negative desmin and S100 exclude smooth muscle and neural tumors. The mitotic rate (6/50 HPF) and presence of necrosis increase risk stratification compared with low-risk lesions. 3. Step 3 – Integrating site (jejunum), size (3.4 cm), mitotic index, necrosis, and immunophenotype, the lesion is classified as a moderate-risk small intestinal GIST with complete (R0) resection. Although margins are negative, small bowel location and mitotic activity warrant consideration of risk-adapted follow-up and potential adjuvant therapy.",
+  "summary_output": "This case represents a completely excised, moderate-risk jejunal gastrointestinal stromal tumor with epithelioid morphology and confirmatory immunomarkers, requiring risk-based surveillance and consideration of adjuvant management.",
+  "important_terms": [
+    "gastrointestinal stromal tumor",
+    "GIST",
+    "jejunum",
+    "epithelioid morphology",
+    "CD117 positivity",
+    "DOG1 positivity",
+    "CD34",
+    "mitotic rate",
+    "necrosis",
+    "muscularis propria",
+    "subserosa",
+    "negative margins",
+    "R0 resection",
+    "immunohistochemistry",
+    "moderate risk"
+  ]
+}
+
+{
+  "topic": "Hodgkin Lymphoma Specimens",
+  "id": "3",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 32-year-old female presented with painless enlargement of mediastinal lymph nodes detected on routine imaging. A mediastinal lymph node excision measuring 4.6 cm was submitted for evaluation. Grossly, the specimen showed a nodular, firm, gray-white cut surface with focal fibrous bands and margins grossly clear by 6 mm. Microscopic examination revealed nodules separated by broad collagen bands, containing lacunar-type Reed-Sternberg cells within a mixed inflammatory background of lymphocytes, eosinophils, and plasma cells. No areas of necrosis or extranodal extension were identified. Eight lymph nodes were examined, with five showing involvement, and no extracapsular spread. Immunohistochemistry demonstrated strong CD30 and CD15 positivity in the neoplastic cells, with weak PAX5 expression and negative CD45 and CD20. These findings are consistent with classical Hodgkin lymphoma, nodular sclerosis subtype, involving mediastinal lymph nodes.",
+  "reasoning_output": "1. Step 1 – The clinical presentation of a young female with mediastinal lymphadenopathy and a nodular, fibrotic lymph node architecture suggests a lymphoproliferative disorder, particularly Hodgkin lymphoma. Histologic identification of nodules divided by broad collagen bands is characteristic of nodular sclerosis subtype. The presence of lacunar-type Reed-Sternberg cells within a mixed inflammatory background further supports this diagnosis. 2. Step 2 – Immunohistochemical findings of CD30 and CD15 positivity, along with weak PAX5 expression and negative CD45 and CD20, confirm the classical Hodgkin lymphoma phenotype and exclude most non-Hodgkin lymphomas. The absence of necrosis and extranodal extension indicates disease confined to lymph nodes, while involvement of multiple nodes suggests progression beyond a single nodal site. 3. Step 3 – Integrating morphologic features, immunophenotype, and nodal involvement, the diagnosis is consistent with classical Hodgkin lymphoma, nodular sclerosis subtype. The pattern of mediastinal involvement and multiple affected lymph nodes supports staging that may influence combined modality treatment planning.",
+  "summary_output": "This case demonstrates classical Hodgkin lymphoma, nodular sclerosis subtype, involving mediastinal lymph nodes with characteristic fibrous bands and immunophenotype, supporting staging and further oncologic management.",
+  "important_terms": [
+    "classical Hodgkin lymphoma",
+    "nodular sclerosis subtype",
+    "Reed-Sternberg cells",
+    "lacunar cells",
+    "mediastinal lymphadenopathy",
+    "collagen bands",
+    "CD30 positivity",
+    "CD15 positivity",
+    "PAX5",
+    "CD45 negativity",
+    "CD20 negativity",
+    "mixed inflammatory background",
+    "lymph node involvement",
+    "immunohistochemistry"
+  ]
+}
+
+{
+  "topic": "Herpes Simplex Esophagitis",
+  "id": "4",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 45-year-old immunocompromised female undergoing chemotherapy presented with odynophagia and retrosternal pain. Upper gastrointestinal endoscopy revealed multiple shallow ulcerations in the distal esophagus. A biopsy specimen measuring 1.3 cm was obtained, showing irregular, friable mucosa with grossly clear margins of 4 mm. Histopathological examination demonstrated ulcerated squamous mucosa with ballooning degeneration of epithelial cells, multinucleation, nuclear molding, and margination of chromatin. Numerous Cowdry type A eosinophilic intranuclear inclusions were identified, along with focal necrosis and a mixed inflammatory infiltrate. No dysplasia or invasive carcinoma was observed. Immunohistochemical staining revealed strong nuclear positivity for HSV-1 antigen, while stains for CMV and p16 were negative. Ki-67 proliferation index was low and limited to basal layers. These findings support a diagnosis of herpes simplex virus esophagitis in an immunocompromised host without evidence of malignancy.",
+  "reasoning_output": "1. Step 1 – The clinical setting of an immunocompromised patient with odynophagia and endoscopic evidence of esophageal ulcerations raises suspicion for infectious esophagitis. Histologic findings of ulcerated squamous mucosa with ballooning degeneration, multinucleation, and nuclear molding are characteristic cytopathic effects of herpes simplex virus infection. The presence of Cowdry type A intranuclear inclusions further supports HSV as the causative agent. 2. Step 2 – Immunohistochemical confirmation with strong nuclear HSV-1 positivity establishes the viral etiology, while negative CMV staining excludes cytomegalovirus infection, another common cause in immunocompromised individuals. Negative p16 staining and low Ki-67 index help rule out dysplastic or neoplastic processes, confirming a reactive infectious pathology. 3. Step 3 – Correlating clinical presentation, histopathological features, and immunoprofile, the findings are diagnostic of herpes simplex esophagitis in an immunocompromised host. The absence of dysplasia or invasive carcinoma indicates no malignant transformation, and the pathology is consistent with active viral infection requiring appropriate antiviral management.",
+  "summary_output": "This case confirms herpes simplex virus esophagitis in an immunocompromised patient, characterized by classic viral cytopathic changes and positive HSV immunostaining, without evidence of malignancy.",
+  "important_terms": [
+    "herpes simplex esophagitis",
+    "HSV-1",
+    "immunocompromised host",
+    "odynophagia",
+    "ballooning degeneration",
+    "multinucleation",
+    "nuclear molding",
+    "Cowdry type A inclusions",
+    "ulcerated squamous mucosa",
+    "necrosis",
+    "mixed inflammatory infiltrate",
+    "immunohistochemistry",
+    "Ki-67",
+    "p16 negativity",
+    "CMV negative"
+  ]
+}
+
+{
+  "topic": "Ectopic Pregnancies",
+  "id": "5",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 29-year-old female presented with acute lower abdominal pain and vaginal spotting. Ultrasound examination revealed a right adnexal mass suspicious for ectopic pregnancy. A laparoscopic salpingectomy specimen measuring 2.0 cm was submitted for evaluation. Grossly, the specimen showed a dilated fallopian tube with hemorrhagic contents and a focal area of rupture; margins were grossly clear by 3 mm. Histopathological examination demonstrated chorionic villi embedded within the tubal wall, accompanied by proliferating cytotrophoblasts and syncytiotrophoblasts, with areas of hemorrhage and focal necrosis. No evidence of atypia or malignant trophoblastic proliferation was observed. Margins were histologically negative. No lymph nodes were submitted. Immunohistochemical staining showed strong positivity for human chorionic gonadotropin (hCG) and placental alkaline phosphatase (PLAP), confirming trophoblastic tissue. The findings are consistent with a ruptured tubal ectopic pregnancy without evidence of malignancy.",
+  "reasoning_output": "1. Step 1 – The clinical presentation of acute abdominal pain with vaginal spotting in a reproductive-age female and imaging showing an adnexal mass is highly suggestive of ectopic pregnancy. Gross findings of a dilated fallopian tube with hemorrhagic content and focal rupture further support this clinical suspicion. Histologically, the identification of chorionic villi within the tubal wall is diagnostic of ectopic implantation. 2. Step 2 – The presence of cytotrophoblasts and syncytiotrophoblasts with associated hemorrhage and focal necrosis is consistent with trophoblastic proliferation seen in ectopic pregnancy. The absence of cytologic atypia or abnormal proliferation excludes gestational trophoblastic neoplasia. Immunohistochemical positivity for hCG and PLAP confirms trophoblastic origin, supporting the diagnosis. 3. Step 3 – Integrating clinical, gross, microscopic, and immunohistochemical findings, the lesion is identified as a ruptured tubal ectopic pregnancy. Negative margins and absence of malignant features indicate complete excision and a benign course, though clinical follow-up is required to monitor recovery and hormone normalization.",
+  "summary_output": "This case represents a ruptured tubal ectopic pregnancy confirmed by the presence of chorionic villi and trophoblastic cells, with no evidence of malignancy and complete surgical excision.",
+  "important_terms": [
+    "ectopic pregnancy",
+    "fallopian tube",
+    "chorionic villi",
+    "cytotrophoblast",
+    "syncytiotrophoblast",
+    "ruptured tubal pregnancy",
+    "hemorrhage",
+    "necrosis",
+    "hCG positivity",
+    "PLAP",
+    "adnexal mass",
+    "vaginal spotting",
+    "immunohistochemistry",
+    "salpingectomy",
+    "trophoblastic tissue"
+  ]
+}
+
+{
+  "topic": "Pituitary Adenomas",
+  "id": "6",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 54-year-old male presented with progressive headaches, decreased libido, and features of acromegaly. MRI revealed a sellar mass measuring 2.8 cm with suprasellar extension. A transsphenoidal resection specimen measuring 2.6 cm was obtained, showing a soft, tan-red tumor with focal hemorrhage and margins grossly free by 4 mm. Histological examination demonstrated a moderately cellular neoplasm composed of monomorphic eosinophilic cells arranged in trabecular and diffuse patterns, without necrosis or significant atypia. There was no evidence of cavernous sinus invasion. Surgical margins were histologically negative. Immunohistochemistry revealed strong positivity for growth hormone (GH), with negative staining for prolactin and ACTH. Ki-67 proliferation index was low (3%), and p53 was negative. These findings are consistent with a somatotroph pituitary adenoma with low proliferative potential and complete excision.",
+  "reasoning_output": "1. Step 1 – The clinical features of acromegaly, including enlarged facial features, headaches, and endocrine dysfunction, along with imaging evidence of a sellar mass, strongly suggest a growth hormone-secreting pituitary adenoma. Gross findings of a soft, vascular tumor with focal hemorrhage are typical of pituitary adenomas and indicate a resectable lesion with clear margins. 2. Step 2 – Histological examination showing monomorphic eosinophilic cells in trabecular and diffuse patterns without necrosis or marked atypia supports a well-differentiated adenoma. Immunohistochemical positivity for growth hormone confirms a somatotroph adenoma subtype, while negative prolactin and ACTH exclude other functional adenomas. The low Ki-67 index and absence of p53 expression indicate low proliferative activity and favorable biological behavior. 3. Step 3 – Integrating clinical presentation, imaging, histopathology, and immunophenotype, the diagnosis is a somatotroph pituitary adenoma with low proliferative potential. Negative surgical margins and absence of invasive features support complete excision and a lower risk of recurrence, though clinical monitoring remains essential.",
+  "summary_output": "This case represents a growth hormone-secreting somatotroph pituitary adenoma with low proliferative activity and complete resection, correlating with acromegaly and requiring follow-up for endocrine normalization.",
+  "important_terms": [
+    "pituitary adenoma",
+    "somatotroph adenoma",
+    "growth hormone",
+    "acromegaly",
+    "sellar mass",
+    "transsphenoidal resection",
+    "eosinophilic cells",
+    "trabecular pattern",
+    "Ki-67",
+    "p53 negativity",
+    "immunohistochemistry",
+    "negative margins",
+    "low proliferative index",
+    "hormonal imbalance"
+  ]
+}
+
+{
+  "topic": "Recurrent Glioblastoma Specimens",
+  "id": "7",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 70-year-old female with a prior history of glioblastoma presented with new-onset seizures and MRI findings suggestive of tumor recurrence in the left temporal lobe. A re-resection specimen measuring 2.9 cm was obtained, showing an irregular, hemorrhagic, and partially necrotic mass with indistinct borders and gross margins free by approximately 8 mm. Histopathological examination revealed a highly cellular tumor composed of pleomorphic astrocytic cells with hyperchromatic nuclei, frequent mitotic figures, prominent microvascular proliferation, and extensive areas of geographic necrosis with pseudopalisading. No leptomeningeal spread was identified. Surgical margins were histologically negative with a minimum clearance of 4 mm. Immunohistochemistry demonstrated diffuse GFAP positivity, a markedly elevated Ki-67 index (~35%), loss of ATRX expression, and negative IDH1 R132H mutation. These findings are consistent with recurrent glioblastoma, WHO grade IV, with high proliferative activity.",
+  "reasoning_output": "1. Step 1 – The patient’s clinical history of prior glioblastoma and current presentation with seizures and imaging evidence of recurrence strongly indicate a high-grade glial tumor. Gross examination of an irregular, hemorrhagic, and necrotic mass with indistinct borders is characteristic of recurrent glioblastoma, reflecting its aggressive and infiltrative nature. Histologically, the presence of pleomorphic astrocytic cells, hyperchromasia, frequent mitoses, microvascular proliferation, and pseudopalisading necrosis are defining features of glioblastoma. 2. Step 2 – Immunohistochemical findings of diffuse GFAP positivity confirm astrocytic origin. A high Ki-67 index (~35%) indicates marked proliferative activity, supporting a high-grade tumor. Loss of ATRX expression suggests an astrocytic lineage with molecular alterations, while negative IDH1 mutation status supports classification as IDH-wildtype glioblastoma, consistent with primary or recurrent glioblastoma in older adults. 3. Step 3 – Integrating clinical recurrence, histopathological hallmarks, and immunophenotypic profile, the diagnosis is confirmed as recurrent glioblastoma, WHO grade IV. Negative surgical margins indicate effective local resection; however, the aggressive histologic features and high proliferation index suggest a high likelihood of further recurrence, necessitating continued oncologic management.",
+  "summary_output": "This case represents recurrent glioblastoma, WHO grade IV, characterized by classic high-grade histological features, IDH-wildtype status, and high proliferative index, despite clear surgical margins.",
+  "important_terms": [
+    "glioblastoma",
+    "recurrent glioblastoma",
+    "WHO grade IV",
+    "astrocytic cells",
+    "pleomorphism",
+    "pseudopalisading necrosis",
+    "microvascular proliferation",
+    "GFAP positivity",
+    "Ki-67",
+    "ATRX loss",
+    "IDH-wildtype",
+    "hyperchromatic nuclei",
+    "mitotic figures",
+    "necrosis",
+    "brain tumor recurrence"
+  ]
+}
+
+{
+  "topic": "Inflammatory Bowel Disease Biopsies",
+  "id": "8",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 28-year-old male presented with chronic diarrhea, abdominal pain, and weight loss. Colonoscopy revealed patchy areas of inflammation involving the terminal ileum and ascending colon. Multiple mucosal biopsies were obtained, with the largest fragment measuring 2.8 cm, showing erythematous and ulcerated mucosa without discrete mass lesions; margins were grossly unremarkable. Histopathological examination demonstrated transmural inflammation with lymphoid aggregates, focal crypt abscesses, architectural distortion, and non-caseating granulomas. Areas of fissuring ulceration were also noted. No evidence of dysplasia or malignancy was identified. Margins were histologically free of significant pathology. No lymph nodes were submitted. Immunohistochemistry showed preserved CK20 and CDX2 expression, with no aberrant p53 staining. The findings are consistent with Crohn’s disease, a form of inflammatory bowel disease, without evidence of neoplastic transformation.",
+  "reasoning_output": "1. Step 1 – The clinical presentation of chronic diarrhea, abdominal pain, and weight loss with colonoscopic findings of patchy inflammation involving the terminal ileum and colon suggests an inflammatory bowel disease, particularly Crohn’s disease given the segmental distribution. Gross absence of a mass lesion supports a non-neoplastic inflammatory process. Histological findings of transmural inflammation, lymphoid aggregates, and fissuring ulceration are characteristic of Crohn’s disease. 2. Step 2 – The presence of non-caseating granulomas is a key diagnostic feature favoring Crohn’s disease over ulcerative colitis. Crypt abscesses and architectural distortion indicate chronic mucosal injury and regeneration. Immunohistochemical findings of preserved CK20 and CDX2 confirm normal epithelial differentiation, while lack of p53 overexpression excludes dysplastic or malignant transformation. 3. Step 3 – Integrating clinical, endoscopic, histologic, and immunophenotypic findings, the diagnosis is consistent with Crohn’s disease. The absence of dysplasia or malignancy and clear margins confirm a purely inflammatory condition, guiding management toward medical therapy and surveillance.",
+  "summary_output": "This case is consistent with Crohn’s disease, demonstrating characteristic transmural inflammation and granulomas without evidence of dysplasia or malignancy.",
+  "important_terms": [
+    "inflammatory bowel disease",
+    "Crohn’s disease",
+    "terminal ileum",
+    "patchy inflammation",
+    "transmural inflammation",
+    "non-caseating granulomas",
+    "crypt abscess",
+    "architectural distortion",
+    "fissuring ulceration",
+    "CK20",
+    "CDX2",
+    "p53 negativity",
+    "chronic diarrhea",
+    "abdominal pain",
+    "mucosal biopsy"
+  ]
+}
+
+{
+  "topic": "Lymph Node Resections",
+  "id": "9",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 68-year-old male presented with enlarged axillary lymph nodes detected during evaluation for an underlying malignancy. A lymph node excision specimen measuring 2.0 cm was submitted, appearing firm and gray-white with well-defined borders; margins were grossly clear by 7 mm. Histological examination revealed infiltration of the lymph node by malignant epithelial cells arranged in irregular glandular structures with marked nuclear atypia, prominent nucleoli, and areas of necrosis. No evidence of extracapsular extension or vascular invasion was identified. Margins were histologically negative with a minimum clearance of 5 mm. A total of four lymph nodes were examined, of which two showed metastatic involvement. Immunohistochemistry demonstrated strong positivity for cytokeratin AE1/AE3 and CK7, with negative CK20 and CD45, supporting metastatic adenocarcinoma of epithelial origin and excluding colorectal and lymphoid malignancies. The findings are consistent with metastatic moderately to poorly differentiated adenocarcinoma involving regional lymph nodes, with clear surgical margins and no extracapsular spread.",
+  "reasoning_output": "1. Step 1 – The presence of enlarged axillary lymph nodes in a patient under evaluation for malignancy raises suspicion for metastatic involvement. Gross findings of a firm, well-circumscribed lymph node and histologic identification of malignant epithelial cells forming irregular glandular structures indicate metastatic adenocarcinoma rather than primary lymphoid neoplasia. Nuclear atypia, prominent nucleoli, and necrosis suggest a moderately to poorly differentiated tumor. 2. Step 2 – Immunohistochemistry demonstrates cytokeratin AE1/AE3 and CK7 positivity, confirming epithelial origin and supporting adenocarcinoma, while negative CK20 reduces the likelihood of a colorectal primary. CD45 negativity excludes lymphoma. These findings help narrow the differential toward a non-colorectal epithelial primary tumor. 3. Step 3 – Integration of histologic architecture, immunophenotype, and nodal involvement (2 of 4 nodes positive) supports the diagnosis of metastatic adenocarcinoma involving regional lymph nodes. The absence of extracapsular extension and clear surgical margins indicate localized nodal disease with favorable surgical clearance, although nodal involvement signifies the need for further oncologic evaluation and management.",
+  "summary_output": "Metastatic adenocarcinoma involving regional lymph nodes with clear margins and no extracapsular extension is identified, supporting epithelial origin and requiring further clinical correlation for primary tumor identification and management.",
+  "important_terms": [
+    "lymph node resection",
+    "metastatic adenocarcinoma",
+    "epithelial cells",
+    "glandular structures",
+    "nuclear atypia",
+    "necrosis",
+    "cytokeratin AE1/AE3",
+    "CK7 positivity",
+    "CK20 negativity",
+    "CD45 negativity",
+    "axillary lymph nodes",
+    "nodal metastasis",
+    "extracapsular extension",
+    "clear margins",
+    "immunohistochemistry"
+  ]
+}
+
+{
+  "topic": "Angiosarcomas",
+  "id": "10",
+  "instruction": "Analyze the following histopathology report and provide a detailed chain-of-thought reasoning leading to the diagnosis, followed by a concise summary.",
+  "input": "A 58-year-old male presented with a rapidly enlarging violaceous lesion on the forearm associated with intermittent bleeding. Surgical excision yielded a 5.8 cm ill-defined, hemorrhagic mass with infiltrative borders; deep margins were involved (<1 mm), while lateral margins were clear by 3 mm. Histological examination revealed a high-grade malignant vascular tumor composed of atypical endothelial cells forming anastomosing vascular channels and solid areas with marked nuclear pleomorphism, brisk mitotic activity, and focal necrosis. Tumor infiltration into adjacent dermis and subcutaneous tissue was noted. Four regional lymph nodes were examined, with one showing metastatic involvement without extracapsular extension. Immunohistochemistry demonstrated strong positivity for CD31, ERG, and factor VIII-related antigen, with negative cytokeratin and S100 staining, confirming vascular endothelial origin. These findings are consistent with high-grade angiosarcoma with regional nodal metastasis and involved surgical margins.",
+  "reasoning_output": "1. Step 1 – The clinical presentation of a rapidly enlarging, hemorrhagic cutaneous lesion with irregular infiltrative borders suggests an aggressive vascular malignancy. Gross findings of an ill-defined hemorrhagic mass with involved deep margins further indicate incomplete excision and potential for local recurrence. Histologically, the presence of atypical endothelial cells forming anastomosing vascular channels and solid sheets, along with nuclear pleomorphism, high mitotic activity, and necrosis, are characteristic of high-grade angiosarcoma. 2. Step 2 – Immunohistochemical staining showing strong CD31, ERG, and factor VIII-related antigen positivity confirms endothelial differentiation, while negative cytokeratin and S100 exclude carcinoma and melanoma. The identification of metastatic involvement in one lymph node without extracapsular spread indicates regional dissemination but limited extension beyond nodal capsule. 3. Step 3 – Integration of clinical features, histopathologic findings, and immunophenotype supports the diagnosis of high-grade angiosarcoma with regional lymph node metastasis. The presence of involved surgical margins and high-grade features indicates aggressive tumor biology, necessitating additional surgical management and consideration of systemic and radiotherapeutic interventions.",
+  "summary_output": "This case represents a high-grade angiosarcoma with vascular endothelial differentiation, regional lymph node metastasis, and involved margins, requiring aggressive multimodal treatment.",
+  "important_terms": [
+    "angiosarcoma",
+    "high-grade tumor",
+    "vascular channels",
+    "endothelial cells",
+    "CD31 positivity",
+    "ERG",
+    "factor VIII-related antigen",
+    "hemorrhagic lesion",
+    "mitotic activity",
+    "necrosis",
+    "pleomorphism",
+    "lymph node metastasis",
+    "extracapsular extension",
+    "involved margins",
+    "immunohistochemistry"
+  ]
+}
