@@ -341,5 +341,3 @@ The synthetic dataset was generated using GPT-4.1-mini (OpenAI). Users should co
 ## Contact
 
 For questions or issues, please open a GitHub issue or contact the corresponding author at the email listed in the associated paper.
-
-For questions or issues, please open a GitHub issue or contact the corresponding author at the email listed in the associated paper.
